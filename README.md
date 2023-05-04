@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Hamed piri</h1>
-<h3 align="left">Android developer & Designer</h3>
+<h3 align="left">Softwer developer & Designer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
